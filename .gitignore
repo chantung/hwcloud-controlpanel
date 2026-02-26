@@ -28,8 +28,14 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+
+# MCP configuration
+.mcp.json
 
 # macOS
 .DS_Store
